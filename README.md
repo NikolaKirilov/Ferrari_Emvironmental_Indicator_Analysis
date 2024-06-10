@@ -82,9 +82,8 @@ future, from now (2024) until 2040. We adjust the rate over the entire
 period to get the final score. Below you can see the results of the
 linear regression.
 
-<p align="center">
 ![CO2_Predicted_2040](https://github.com/NikolaKirilov/Ferrari_Emvironmental_Indicator_Analysis/assets/96425721/cec327d9-9d92-41e3-9c1c-b85810efea3b)
-</p> 
+
 
 # Conclusion
 
