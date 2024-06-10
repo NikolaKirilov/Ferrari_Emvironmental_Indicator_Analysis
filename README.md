@@ -37,7 +37,7 @@ indicator:
 
 -   CDA: Adjusted emissions growth rate for carbon dioxide
 
--   GHN: Projected GHG emissions in 2050
+-   GHN: Projected GHG emissions in 2040
 
 # Calculating Indicator Scores
 
