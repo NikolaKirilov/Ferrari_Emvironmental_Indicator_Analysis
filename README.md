@@ -1,6 +1,11 @@
 # Ferrari_Emvironmental_Indicator_Analysis
 This repository assesses Ferrari’s sustainability using a custom EPI. It uses three GHG indices to reflect Ferrari’s carbon reduction efforts. Findings show significant steps in reducing emissions. The EPI Index aids in evaluating the company's environmental impact.
 
+# Requirements
+
+To run the code successfully, please ensure you have the required dependencies installed. You can do this by running the following command in your terminal:
+
+!pip install -r requirements.txt
 
 # Introduction
 
